@@ -24,7 +24,7 @@ To get started using this LaTeX template for your thesis, follow the instruction
 
 Overleaf is an online LaTeX editor that makes it easy to edit and compile your LaTeX documents without installing LaTeX locally. To use this template with Overleaf:
 
-1. Go to Overleaf.
+1. Go to [Overleaf](https://www.overleaf.com).
 2. Create a new project:
     - Select "Upload Project".
     - Upload the entire contents of the repository folder (including all .tex files, .cls, and other related files).
