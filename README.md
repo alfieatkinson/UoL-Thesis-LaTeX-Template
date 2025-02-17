@@ -2,6 +2,8 @@
 
 This LaTeX template helps students write their thesis or project reports according to the **University of Lincoln School of Computer Science** guidelines. While tailored for this institution, it can also be adapted for other universities. Make sure to review your own institution’s guidelines and modify as necessary.
 
+I have uploaded this template as a resource for students from other schools within the university or even from other institutions to access and use.
+
 ## Key Features
 
 - Pre-configured style to meet the **University of Lincoln School of Computer Science** thesis formatting guidelines.
