@@ -18,7 +18,7 @@ To get started using this LaTeX template for your thesis, follow the instruction
 
 - **Option 1:** Clone this repository using Git:
   ```bash
-  git clone https://github.com/yourusername/lincolncsthesis-template.git
+  git clone https://github.com/alfieatkinson/UoL-Thesis-LaTeX-Template.git
   ```
 - **Option 2:** Download the ZIP file of this repository from GitHub and extract it to your desired location
 
